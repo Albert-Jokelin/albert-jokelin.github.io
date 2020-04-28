@@ -1,0 +1,7 @@
+{
+	"materials" : [
+		{"name": "Real Numbers", "id": 1},{"name": "Polynomials", "id": 2},{"name": "Pair of linear equations", "id": 3},{"name": "Quadratic Equations", "id": 4},{"name": "Arithmetic Progressions", "id": 5},{"name": "Triangles", "id": 6},
+		{"name": "Coordinate geometry", "id": 7},{"name": "Introduction to trigonometry", "id": 8},{"name": "Applications of trigonometry", "id": 9},{"name": "Circles", "id": 10},{"name": "Constructions", "id": 11},{"name": "Areas related to circles", "id": 12},
+		{"name": "Surface areas and volumes", "id": 13},{"name": "Statistics", "id": 14},{"name": "Probablity", "id": 15}
+	]
+}
